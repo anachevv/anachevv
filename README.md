@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋I'm Anatoli</h1>
-<h3 align="center">Aspiring frontend developer with a robust foundation in React. On my way to becoming a top-tier frontend developer 💻</h3>
+<h3 align="center">Aspiring frontend developer with a robust foundation in React.js. On my way to becoming a top-tier frontend developer 💻</h3>
 
 <br>
 
